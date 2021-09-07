@@ -1,3 +1,6 @@
+
+![emailGUI](https://user-images.githubusercontent.com/14360182/132403071-012f482a-5c7d-40c1-9bb3-4331e516f4d8.jpg)
+
 # EmailGUI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
@@ -26,8 +29,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Reference for UI
-https://material.angular.io/components/progress-spinner/examples
+## References
+- https://material.angular.io/components/progress-spinner/examples
+- Youtube (Learn Code With Durgesh)
 
 
 ## TODO :
