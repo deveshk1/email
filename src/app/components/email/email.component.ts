@@ -24,6 +24,8 @@ export class EmailComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  
+
   doSubmitForm(){
     console.log("submit fom");
     console.log("data",this.data);
