@@ -28,3 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Reference for UI
 https://material.angular.io/components/progress-spinner/examples
+
+
+## TODO :
+ - create springboot email application and connect to this UI
